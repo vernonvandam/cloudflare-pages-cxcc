@@ -4,7 +4,7 @@
 
 ## 1. Product direction
 
-CXCC provides affordable, managed AI customer service and self-service for small service businesses. The first target customers are trades and field services (including window cleaners), print shops, and appointment-led practices such as chiropractors, dental practices, and accountants. Sell an outcome—fewer missed enquiries and less repetitive admin—with a monthly managed subscription. Keep Genesys and enterprise customer-experience consulting under the same CXCC brand as a secondary service, clearly separated from the small-business product path.
+CXCC presents as a customer-experience solution provider with capabilities across systems integration, software development, AI, and automation. Its initial product offer is affordable, managed AI customer service and self-service for small businesses. The first target customers are trades and field services (including window cleaners), appointment-led practices such as chiropractors, dental practices, and accountants, and other service-led businesses. Sell an outcome—fewer missed enquiries and less repetitive admin—with a monthly managed subscription. Keep the small-business product path clear while showing the wider CXCC delivery capabilities and enterprise CX work under the same brand.
 
 **Initial channel:** a shared automation platform is the destination; the first demonstrable channel is website chat. WhatsApp is a planned production channel subject to customer demand, Meta approval and pricing, and integration readiness. The first website demo is a simulation unless and until it is connected to a real, disclosed service.
 
@@ -34,10 +34,11 @@ CXCC provides affordable, managed AI customer service and self-service for small
 |---|---|---|
 | `/` | Outcome-led headline for small service businesses; short explanation; chat demo; proof/benefits; onboarding steps; pricing approach; trust and handoff explanation; enterprise consulting link | Try the demo / book a discovery call |
 | `/how-it-works` | Discovery, knowledge capture, configuration, testing, launch, monthly tuning and support; realistic limits and human handoff | Discuss a pilot |
-| `/solutions` | Overview with use cases for trades/field services, print shops, and appointment-led practices; do not imply industry-specific compliance certification | Find your use case |
+| `/capabilities` | Systems integration, software development, AI and automation, and customer-experience platform delivery; distinguish concepts from available software | Discuss a challenge |
+| `/solutions` | Solutions first, followed by related prototypes, product concepts, and illustrative use cases mapped to business sectors; do not imply industry-specific compliance certification | Find your use case |
 | `/solutions/trades` | Missed calls/enquiries, service-area and quote FAQs, after-hours lead capture; include window cleaners | Discuss a pilot |
 | `/solutions/practices` | Common service, hours, preparation, and appointment FAQs; no diagnosis, tax/legal advice, or sensitive case handling | Discuss a pilot |
-| `/solutions/print-shops` | Quote preparation, products, turnaround and order-status FAQs; no unsupported live order lookup | Discuss a pilot |
+| `/solutions/service-businesses` | Common service, coverage, hours, quote and next-step FAQs for service-led businesses | Discuss a pilot |
 | `/enterprise` | Genesys/customer-experience consulting, contact-centre modernization and integration advisory; distinct qualification path | Contact CXCC |
 | `/about` | CXCC operating approach, service ownership, support expectations and contact details | Contact CXCC |
 | `/contact` | Discovery call/contact route and expected response time | Send enquiry |
@@ -91,6 +92,8 @@ Before enabling it, define opt-in evidence, unsubscribe handling, allowed messag
 Do not anchor pricing to an assumed competitor price or promise “unlimited” use. Interview 8–12 businesses across at least two target segments. Ask about missed enquiries, repetitive questions, current handling time, seasonality, channel preference, acceptable onboarding effort, and the monthly value of an additional qualified enquiry or saved staff time. Show concept packages with explicit limits to test willingness to pay; label figures as research concepts, not published offers.
 
 Then pilot with 2–3 businesses. Track setup hours, support hours, conversation volume, useful-answer rate, handoff rate, unresolved rate, provider and channel costs, and customer-perceived value. Set a sustainable monthly floor from direct per-customer costs plus support and margin; separate onboarding if setup work is material. Potential packaging dimensions: included conversations, number of locations, knowledge updates, support response time, and optional WhatsApp usage. Publish tiers only when actual pilot economics and customer feedback support them.
+
+Marketing may explain potential sources of value, such as reducing repeat handling time or helping visitors reach the right next step. Distinguish staff capacity returned from cash savings: capacity only becomes a financial saving when cost is genuinely avoided or is used productively. Use a customer-specific baseline and include setup, service, usage, integration, oversight, and follow-up costs. Do not publish estimated savings as established results or guarantees.
 
 ## 8. Implementation sequence and acceptance criteria
 

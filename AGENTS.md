@@ -2,7 +2,7 @@
 
 ## Project overview
 
-CXCC provides affordable, managed AI customer-service and self-service tools for small service businesses. The initial audience includes trades and field services, window cleaners, print shops, and appointment-led practices such as chiropractic, dental, and accounting businesses.
+CXCC helps organizations with customer-experience systems integration, software development, AI, and automation. Its initial product offer is affordable, managed website chat for small service businesses, including trades and field services, window cleaners, appointment-led practices such as chiropractic, dental, and accounting businesses, and other service-led companies.
 
 CXCC is one brand. Genesys and enterprise customer-experience consulting is a secondary offering.
 
@@ -10,7 +10,7 @@ CXCC is one brand. Genesys and enterprise customer-experience consulting is a se
 
 - Build a shared automation platform for website chat and WhatsApp.
 - Start with website chat.
-- Keep the initial offer focused on affordable, recurring, managed service for small businesses.
+- Keep the initial website-chat offer focused on affordable, recurring, managed service for small businesses; present integration, software development, AI, and automation as broader CXCC delivery capabilities.
 - Avoid overbuilding. Prefer a small, useful pilot over generalized platform features.
 - Treat WhatsApp as a later production channel that depends on validated customer demand, current Meta requirements, and a clear cost model.
 
