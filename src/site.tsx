@@ -1,6 +1,6 @@
 import { useEffect, useState, type FormEvent } from 'react'
 
-const email = 'hello@cxcc.com.au'
+const email = 'hello@cxcc.dev'
 const nav = [['Capabilities','/capabilities'],['Solutions','/solutions'],['How it works','/how-it-works'],['About','/about']]
 const segments = [
  {path:'/solutions/trades',title:'Trades & field services',icon:'↗',intro:'Make the first response useful, even when your team is on the tools.',items:['Service areas and opening hours','What to include in a quote request','After-hours enquiry expectations'],note:'Includes window cleaners and other local service teams.',scenario:'A local service team receives repeat questions about suburbs served, available services and what information helps prepare a quote. An approved chat FAQ can answer the general questions and direct quote-specific requests to the team.',handoff:'Requests for exact pricing, availability, urgent work or a site-specific assessment go to a person.',faq:[['Can chat confirm a quote?','No. It can explain what details are useful to include in a request; the business confirms scope and pricing.'],['Can it tell a visitor whether their address is in range?','Only if the business has provided and approved clear service-area information. Unclear addresses should go to the team.'],['Does the demo capture leads after hours?','No. The public demo is scripted and does not collect or transmit messages. A production lead flow would need a disclosed, secured destination.']]},
